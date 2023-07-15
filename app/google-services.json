@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166496115568",
+    "project_id": "folksy-5a375",
+    "storage_bucket": "folksy-5a375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166496115568:android:1dddf03f5f4062c7b74db5",
+        "android_client_info": {
+          "package_name": "com.krashkrosh748199.folksy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166496115568-3e7jblhj5042parprr603c36v8jp1k2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS_vTB6mGTiUL2ut1_lwSq0eEfyfaGdew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166496115568-3e7jblhj5042parprr603c36v8jp1k2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
